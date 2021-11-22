@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-Senior iOS Developer - Enthusiast: #motorbike #maker #IoT #arduino #raspberryPi #3Dprint #cryptocurrencies #shibarmy - Important: #privacy
+Senior iOS Developer (Swift and Objective-C dev)
+
+**Enthusiast:** #motorbike #maker #IoT #arduino #raspberryPi #3Dprint #cryptocurrencies
+
+**Important:** #privacy
