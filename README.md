@@ -10,10 +10,6 @@ If you are looking for a committed and experienced developer for your project, p
 
 Thank you very much.
 
-**Enthusiast:** #motorbike #maker #IoT #arduino #raspberryPi #3Dprint #cryptocurrencies
-
-**Important:** #privacy
-
 ###
 
 <div align="left">
