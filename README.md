@@ -4,7 +4,7 @@ I am a technical professional with specialized training in Web Application Devel
 
 In addition to my software development experience, I also possess skills in managing technical teams and projects. I have experience using continuous integration platforms for application deployment and testing, as well as applying Clean Code design patterns and architectures in project development.
 
-I have worked on a wide variety of iOS development projects, some of which include clients such as the National Mint and Stamp Factory (Public Administration), El Corte Inglés, Carrefour, Carrefour Financial Services, ONCE, Gmp, Lidl, Bankinter, Banco Santander, and Guudjob.
+I have worked on a wide variety of iOS development projects, some of which include clients such as the 'Fábrica Nacional de Moneda y Timbre (Public Administration), El Corte Inglés, Carrefour, Carrefour Financial Services, ONCE, Gmp, Lidl, Bankinter, Santander Bank and Guudjob.
 
 ###
 
