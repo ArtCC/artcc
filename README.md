@@ -1,14 +1,10 @@
 ### Hello world! 👋
 
-I am a technical professional with a specialized training in Web Application Development (CFGS DAW) and a master's degree in iOS and Android development. Since 2010, my professional career has been focused on native software development for Apple products such as macOS, iOS, iPadOS, tvOS and watchOS. During this time, I have continued to update and expand my knowledge in other languages and technologies, although my main focus remains on native development using Objective-C, Swift (including SwiftUI) as programming languages.
+I am a technical professional with specialized training in Web Application Development (CFGS DAW) and a master's degree in iOS and Android development. Since 2010, my professional career has focused on native software development for Apple products, such as macOS, iOS, iPadOS, tvOS, and watchOS. During this time, I have continued to update and expand my knowledge in other languages and technologies, although my main focus remains on native development using Objective-C, Swift (including SwiftUI) as programming languages.
 
-In addition to my software development experience, I also possess skills in technical and project team management, as well as experience using continuous integration platforms for application deployment and testing, and applying design patterns and Clean Code architectures in project development.
+In addition to my software development experience, I also possess skills in managing technical teams and projects. I have experience using continuous integration platforms for application deployment and testing, as well as applying Clean Code design patterns and architectures in project development.
 
-I have worked on a wide variety of projects as an iOS developer, some of which include Fábrica Nacional de Moneda y Timbre (Public Administration), El Corte Inglés, Carrefour, Servicios Financieros Carrefour, ONCE, Gmp, Lidl Zaragoza, Bankinter Móvil, Bankintercard, Agro Santander and Guudjob.
-
-If you are looking for a committed and experienced developer for your project, do not hesitate to contact me.
-
-Thank you very much.
+I have worked on a wide variety of iOS development projects, some of which include clients such as the National Mint and Stamp Factory (Public Administration), El Corte Inglés, Carrefour, Carrefour Financial Services, ONCE, Gmp, Lidl, Bankinter, Banco Santander, and Guudjob.
 
 ###
 
