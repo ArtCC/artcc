@@ -26,7 +26,7 @@ I have worked on a wide variety of iOS development projects, some of which inclu
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=artcc&show_icons=true&theme=transparent" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" height="150"/>
 </div>
 
 ###
