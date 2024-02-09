@@ -24,6 +24,6 @@ I have worked on a wide variety of iOS development projects, some of which inclu
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artcc&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artcc&show_icons=true&theme=solarized-dark)
 
 ###
