@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-Full-time senior iOS developer and part-time 2D indie game developer.
+Full time senior iOS developer and part time 2D indie game developer.
 
 ###
 
