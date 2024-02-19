@@ -1,10 +1,6 @@
-### Hello world! 👋
+### Hello, World! 👋
 
-I am a technical professional with specialized training in Web Application Development (CFGS DAW) and a master's degree in iOS and Android development. Since 2010, my professional career has focused on native software development for Apple products, such as macOS, iOS, iPadOS, tvOS, and watchOS. During this time, I have continued to update and expand my knowledge in other languages and technologies, although my main focus remains on native development using Objective-C, Swift (including SwiftUI) as programming languages.
-
-In addition to my software development experience, I also possess skills in managing technical teams and projects. I have experience using continuous integration platforms for application deployment and testing, as well as applying Clean Code design patterns and architectures in project development.
-
-I have worked on a wide variety of iOS development projects, some of which include clients such as the 'Fábrica Nacional de Moneda y Timbre (Public Administration in Spain), El Corte Inglés, Carrefour, Carrefour Financial Services, ONCE, Gmp, Up Spain, Indra, Lidl, Bankinter, Santander Bank and Guudjob.
+Full-time senior iOS developer and part-time 2D indie game developer.
 
 ###
 
