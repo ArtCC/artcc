@@ -1,4 +1,4 @@
-<p><img src="https://pbs.twimg.com/profile_banners/1735332356255330304/1715708458/1500x500" height="500"></p>
+<p><img src="https://pbs.twimg.com/profile_banners/1735332356255330304/1715708458/1500x500"></p>
 
 ### Hello, World! 👋
 
