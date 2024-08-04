@@ -1,5 +1,6 @@
-<p><img src="https://pbs.twimg.com/profile_banners/1735332356255330304/1715708458/1500x500"></p>
+<p><img src="https://media.licdn.com/dms/image/D4D16AQGMtt9scE6Omw/profile-displaybackgroundimage-shrink_350_1400/0/1715708508481?e=1728518400&v=beta&t=2zDFsZo69vuQl-aP_57tzUs5GTAmpylpfQY8G-RJ4RA"></p>
 
 ### Hello, World! 👋
 
 Senior Apple devices developer, developer trainer project at Udemy, part time indie game developer, content creator about my indie game developments on YouTube.
+
