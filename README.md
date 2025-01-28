@@ -1,10 +1,10 @@
-<p><img src="https://github.com/ArtCC/artcc.github.io/blob/main/assets/setup.jpeg" height="375"></p>
+<p><img src="https://github.com/ArtCC/artcc.github.io/blob/main/assets/setup.jpeg" height="400"></p>
 
 <h1 align="left">Hello, World! 👋</h1>
 
 ###
 
-<p align="left">My name is Arturo and I'm an Apple device developer, from Madrid, Spain</p>
+<p align="left">My name is Arturo and I'm an Apple device developer from Madrid, Spain.</p>
 
 ###
 
