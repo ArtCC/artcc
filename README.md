@@ -1,4 +1,4 @@
-<p><img src="https://github.com/ArtCC/artcc.github.io/blob/main/assets/setup.jpeg" height="500"></p>
+<p><img src="https://github.com/ArtCC/artcc.github.io/blob/main/assets/setup.jpeg" height="250"></p>
 
 ### Hello, World! 👋
 
