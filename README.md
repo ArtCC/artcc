@@ -39,14 +39,17 @@
 ###
 
 <div align="left">
-    [![GitHub Contributions](https://github.com/ArtCC/github-contributions-stream-deck-plugin/blob/main/market-icon.png)](https://tudestino.com)
-
-
-  <img src="https://github.com/ArtCC/github-contributions-stream-deck-plugin/blob/main/market-icon.png" height="128" alt="GitHub Contributions"  />
+  <a href="https://marketplace.elgato.com/product/github-contributions-e44e9f6c-e85a-4889-acc5-d666133671e4">
+  <img src="https://github.com/ArtCC/github-contributions-stream-deck-plugin/blob/main/market-icon.png" height="150" alt="GitHub Contributions"  />
+    </a>
   <img width="12" />
-  <img src="https://github.com/ArtCC/MuseumAI-app/raw/main/MuseumAI/Resources/Assets.xcassets/Images/logo-transparent.imageset/logo-transparent.png" height="128" alt="MuseumAI"  />
+    <a href="https://apps.apple.com/us/app/museumai-analyze-art/id6501983819">
+  <img src="https://github.com/ArtCC/MuseumAI-app/raw/main/MuseumAI/Resources/Assets.xcassets/Images/logo-transparent.imageset/logo-transparent.png" height="150" alt="MuseumAI"  />
+</a>
   <img width="12" />
-  <img src="https://github.com/ArtCC/NitroxMaster/raw/main/NitroxMaster/Resources/Assets.xcassets/AppIcon.appiconset/light_icon.png" height="128" alt="ScubaPlan"  />
+    <a href="https://apps.apple.com/us/app/scubaplan-dive-computer/id6689517716">
+  <img src="https://github.com/ArtCC/NitroxMaster/raw/main/NitroxMaster/Resources/Assets.xcassets/AppIcon.appiconset/light_icon.png" height="150" alt="ScubaPlan"  />
+</a>
 </div>
 
 ## License
