@@ -32,6 +32,20 @@
 
 ###
 
+###
+
+<h2 align="left">Personal projects</h2>
+
+###
+
+<div align="left">
+  <img src="https://github.com/ArtCC/github-contributions-stream-deck-plugin/blob/main/market-icon.png" height="128" alt="GitHub Contributions"  />
+  <img width="12" />
+  <img src="https://github.com/ArtCC/MuseumAI-app/raw/main/MuseumAI/Resources/Assets.xcassets/Images/logo-transparent.imageset/logo-transparent.png" height="128" alt="MuseumAI"  />
+  <img width="12" />
+  <img src="https://github.com/ArtCC/NitroxMaster/raw/main/NitroxMaster/Resources/Assets.xcassets/AppIcon.appiconset/light_icon.png" height="128" alt="ScubaPlan"  />
+</div>
+
 ## License
 
 [Apache License](LICENSE)
