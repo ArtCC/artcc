@@ -1,12 +1,10 @@
-# Hi, I'm Arturo 👋
+# Hello, World! 👋
 
 <p align="center">
   <img src="https://github.com/ArtCC/artcc.github.io/blob/main/assets/setup.jpeg" style="width:100%;max-width:1000px;" alt="Header image" />
 </p>
 
 📍 Madrid, Spain | 👨🏻‍💻 Apple Software Developer | 🤿 Scuba Diver
-
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Objective-C](https://img.shields.io/badge/-Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
@@ -20,7 +18,9 @@ When I'm not coding, you'll find me underwater exploring the ocean depths 🌊
 
 ## 🚀 Personal Projects
 
-### Apps & Tools
+### Apps (iOS, iPadOS, macOS or tvOS)
+
+• 🌍 [**Localizapp for Xcode**](https://localizapp-web.vercel.app) - Powerful tool to manage localization for iOS projects. Makes working with multiple languages a breeze.
 
 • 📱 [**MuseumAI**](https://museumai-web.vercel.app) - Discover museums and art using AI. Your personal guide to the world's cultural treasures.
 
@@ -36,11 +36,13 @@ When I'm not coding, you'll find me underwater exploring the ocean depths 🌊
 
 • 📊 [**GitHub Contributions**](https://marketplace.elgato.com/product/github-contributions-e44e9f6c-e85a-4889-acc5-d666133671e4) - Stream Deck plugin that shows your GitHub contributions in real time. Keep your coding streak visible.
 
-• 🌍 [**Localizapp for Xcode**](https://localizapp-web.vercel.app) - Powerful tool to manage localization for iOS projects. Makes working with multiple languages a breeze.
+• 🏠 [**Homelinks**](https://github.com/ArtCC/homelinks) - Modern self-hosted dashboard to organize Docker services with favorites, categories, search, backups and secure login.
 
 • 🔍 [**MacScan**](https://github.com/ArtCC/macscan) - macOS security scanner to detect vulnerabilities and misconfigurations. Keep your Mac secure.
 
 ### Telegram Bots
+
+• 📡 [**ServerWatch AI Bot**](https://github.com/ArtCC/serverwatch-ai-bot) - Telegram bot for server monitoring with AI chat. Fetches live Glances metrics and works with local Ollama or cloud models.
 
 • 🖥️ [**Linux Server Admin Bot**](https://github.com/ArtCC/linux-server-admin-bot) - Telegram bot for managing and monitoring your Linux servers remotely. Execute commands and get system status on the go.
 
@@ -52,17 +54,10 @@ When I'm not coding, you'll find me underwater exploring the ocean depths 🌊
 
 • 📥 [**Send Torrent Bot**](https://github.com/ArtCC/send-torrent-telegram-bot) - Send torrent files directly to your download client via Telegram. Remote torrent management made simple.
 
-## Tech Stack
-
-**Languages:** Swift, Objective-C  
-**Tools:** Xcode, VSCode, Git, GitHub  
-**Services:** Firebase, RevenueCat  
-**Focus:** iOS/macOS native development, developer tools, AI integration
-
 ## Connect
 
-• [X/Twitter](https://x.com/_artcc_) - Let's connect!  
 • [GitHub](https://github.com/ArtCC) - Check out my open source work
+• [X](https://x.com/_artcc_) - Let's connect!  
 
 ## License
 
@@ -70,4 +65,4 @@ When I'm not coding, you'll find me underwater exploring the ocean depths 🌊
 
 ---
 
-<sub>Arturo Carretero Calvo - 2026</sub>
+<sub>Arturo Carretero Calvo</sub>
